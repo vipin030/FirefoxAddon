@@ -1,0 +1,2 @@
+# FirefoxAddon
+Browser extensions
